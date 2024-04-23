@@ -1,30 +1,27 @@
-### Hi there 👋
+### Nya~
 
 <!--
 **no6data/no6data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.youtube.com/@no6data">no6data</a> 👋</h1>
+<h1 align="center">Hiii, I am <a href="https://www.youtube.com/@no6data">no6data</a> 👋</h1>
 </div>
-<img src="[https://imgur.com/a/t3BgZn3]">
+<img src="https://i.imgur.com/NCiynLt.png">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxIvIg-MFDA_iIDQjxNEugA)
+![GitHub followers](https://img.shields.io/github/followers/no6data)
 
-## Sobre mi
+## About me
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+50k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
-<br>
+- ⭐ bachelor's degree in statistical sciences ⭐ 
+- 🤖 passion for data science and machine learning with python
+- 🎥 soon I will be doing courses on programming with a focus on data science with python in [Youtube](https://www.youtube.com/@no6data) (EN/ES)
 
-## Proyectos *bombitas*
+
+## my future projects will bo here :D
+
+<!--
 <table>
 <tr>
 <td width="50%">
@@ -111,6 +108,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+-->
 
 
 <!--
