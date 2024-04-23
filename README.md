@@ -16,7 +16,7 @@
 
 - ⭐ bachelor's degree in statistical sciences ⭐ 
 - 🤖 passion for data science and machine learning with python
-- 🎥 soon I will be doing courses on programming with a focus on data science with python in [Youtube](https://www.youtube.com/@no6data) (EN/ES)
+- 🎥 soon I will be doing courses about programming with a focus on data science with python in [Youtube](https://www.youtube.com/@no6data) (EN/ES)
 
 
 ## my future projects will bo here :D
