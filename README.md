@@ -19,7 +19,7 @@
 - 🎥 soon I will be doing courses about programming with a focus on data science with python in [Youtube](https://www.youtube.com/@no6data) (EN/ES)
 
 
-## my future projects will bo here :D
+<img src="https://i.imgur.com/4Jxe9A6.png">
 
 <!--
 <table>
